@@ -27,11 +27,15 @@ public class BaseTest implements WebDriverProvider {
     public void tearDown() {
         if (driver != null) {
             try {
-                getWebDriver().manage().deleteAllCookies();
+                WebDriver webDriver = getWebDriver();
+                if (webDriver != null) {
+                    webDriver.manage().deleteAllCookies();
+                    webDriver.quit();
+                }
             } catch (Exception e) {
-                System.out.println("Could not delete cookies: " + e.getMessage());
+                System.out.println("Error during tearDown: " + e.getMessage());
             } finally {
-                getWebDriver().quit();
+                driver = null;
             }
         }
     }

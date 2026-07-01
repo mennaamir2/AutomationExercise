@@ -19,6 +19,12 @@ public class AdvancedFlowsTest extends BaseTest {
 
         CartPage cartPage = productsPage.clickViewCart();
         Assert.assertEquals(cartPage.getProductQuantity(), "4", "Product quantity in cart is incorrect!");
+
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     @Test(priority = 2, description = "Verify adding product from details page")
@@ -31,6 +37,12 @@ public class AdvancedFlowsTest extends BaseTest {
 
         CartPage cartPage = productsPage.clickViewCart();
         Assert.assertTrue(cartPage.isCartNotEmpty(), "Cart is empty after adding from details!");
+
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 
     @Test(priority = 3, description = "Verify scroll down to footer and scroll up using arrow button")
@@ -40,7 +52,19 @@ public class AdvancedFlowsTest extends BaseTest {
         homePage.scrollToFooter();
         Assert.assertTrue(homePage.isSubscriptionTitleDisplayed(), "Subscription title is not displayed in footer!");
 
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         homePage.clickScrollUpArrow();
         Assert.assertTrue(homePage.isMainSliderTextDisplayed(), "Main slider text is not displayed after scrolling up!");
+
+        try {
+            Thread.sleep(5000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }

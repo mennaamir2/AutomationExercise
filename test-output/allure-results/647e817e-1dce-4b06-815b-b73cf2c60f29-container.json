@@ -1,0 +1,1 @@
+{"uuid":"647e817e-1dce-4b06-815b-b73cf2c60f29","name":"com.automationexercises.tests.CheckoutTest","children":["a6b7e536-93fa-41d1-a1b1-b787ce90f8c2"],"befores":[{"name":"setupClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1782924682463,"stop":1782924682464}],"afters":[],"start":1782924596802,"stop":1782924713687}
