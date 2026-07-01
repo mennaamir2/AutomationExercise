@@ -1,0 +1,1 @@
+{"uuid":"ea4c0951-6479-43c5-bcd7-7909c29bd01a","name":"com.automationexercises.tests.HomePageTest","children":["3fbfb263-e6de-475a-90ea-01c666200ecf"],"befores":[{"name":"setupClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1782923172754,"stop":1782923172754}],"afters":[],"start":1782923098414,"stop":1782923193436}
