@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Exercise Full Suite">
+    <test name="E-Commerce End To End Flow">
+        <classes>
+            <class name="com.automationexercises.tests.HomePageTest"/>
+
+            <class name="com.automationexercises.tests.SearchProductTest"/>
+
+            <class name="com.automationexercises.tests.AddProductToCartTest"/>
+
+            <class name="com.automationexercises.tests.CartTest"/>
+
+            <class name="com.automationexercises.tests.CheckoutTest"/>
+
+            <class name="com.automationexercises.tests.AdvancedFlowsTest"/>
+
+
+        </classes>
+    </test>
+</suite>

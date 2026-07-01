@@ -1118,3 +1118,81 @@
 [INFO] - [01-07-2026 19:51:53] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testSearchProduct passed
 [INFO] - [01-07-2026 19:51:58] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\laptop home\AutomationExercise\test-output\reports\index.html", file was renamed to "AllureReport_2026-07-01_07-51-58.html".
 [INFO] - [01-07-2026 19:51:58] [main] [com.automationexercises.listeners.TestNGListeners] - Test Execution Finished
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.listeners.TestNGListeners] - Test Execution started
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.FileUtils] - File deleted: C:\Users\laptop home\AutomationExercise\test-output\Logs\logs.log
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.FileUtils] - Directory created: test-output/screenshots/
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.FileUtils] - Directory created: test-output/recordings/
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.FileUtils] - Directory created: src/test/resources/downloads/
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.listeners.TestNGListeners] - Directories created
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.utils.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.listeners.TestNGListeners] - Properties loaded
+[INFO] - [01-07-2026 20:01:14] [main] [com.automationexercises.utils.report.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [01-07-2026 20:01:16] [main] [com.automationexercises.utils.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [01-07-2026 20:01:16] [main] [com.automationexercises.listeners.TestNGListeners] - Allure environment set
+[INFO] - [01-07-2026 20:01:16] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\laptop home\AppData\Local\JetBrains\IdeaIC2025.2\temp-testng-customsuite.xml
+
+[INFO] - [01-07-2026 20:01:16] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:01:16] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:01:21] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddProductToCart started
+[INFO] - [01-07-2026 20:01:31] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddProductToCart passed
+[INFO] - [01-07-2026 20:01:32] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:01:32] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:01:35] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testProductQuantityInCart started
+[INFO] - [01-07-2026 20:01:45] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testProductQuantityInCart passed
+[INFO] - [01-07-2026 20:01:45] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:01:45] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.listeners.TestNGListeners] - Test Execution started
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.FileUtils] - File deleted: C:\Users\laptop home\AutomationExercise\test-output\Logs\logs.log
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.listeners.TestNGListeners] - Directories cleaned
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.FileUtils] - Directory created: test-output/screenshots/
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.FileUtils] - Directory created: test-output/recordings/
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.FileUtils] - Directory created: src/test/resources/downloads/
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.listeners.TestNGListeners] - Directories created
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.utils.dataReader.PropertyReader] - Properties file loaded successfully
+[INFO] - [01-07-2026 20:04:13] [main] [com.automationexercises.listeners.TestNGListeners] - Properties loaded
+[INFO] - [01-07-2026 20:04:14] [main] [com.automationexercises.utils.report.AllureEnvironmentManager] - Allure environment variables set.
+[INFO] - [01-07-2026 20:04:15] [main] [com.automationexercises.utils.report.AllureBinaryManager] - Allure binaries already exist.
+[INFO] - [01-07-2026 20:04:15] [main] [com.automationexercises.listeners.TestNGListeners] - Allure environment set
+[INFO] - [01-07-2026 20:04:15] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\laptop home\AutomationExercise\testing.xml
+
+[INFO] - [01-07-2026 20:04:16] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:04:16] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:04:20] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case verifyHomePageLogo started
+[INFO] - [01-07-2026 20:04:25] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case verifyHomePageLogo passed
+[INFO] - [01-07-2026 20:04:25] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:04:25] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:04:28] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testSearchProduct started
+[INFO] - [01-07-2026 20:04:38] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testSearchProduct passed
+[INFO] - [01-07-2026 20:04:38] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:04:38] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:04:41] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddProductToCart started
+[INFO] - [01-07-2026 20:04:50] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddProductToCart passed
+[INFO] - [01-07-2026 20:04:50] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:04:50] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:04:53] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddMultipleProductsAndVerifyTotals started
+[INFO] - [01-07-2026 20:05:03] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddMultipleProductsAndVerifyTotals passed
+[INFO] - [01-07-2026 20:05:03] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:05:03] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:05:06] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testRemoveProductFromCart started
+[INFO] - [01-07-2026 20:05:14] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testRemoveProductFromCart passed
+[INFO] - [01-07-2026 20:05:14] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:05:14] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:05:17] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testCheckoutFlow started
+[INFO] - [01-07-2026 20:05:24] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testCheckoutFlow passed
+[INFO] - [01-07-2026 20:05:24] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:05:24] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:05:27] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testProductQuantityInCart started
+[INFO] - [01-07-2026 20:05:35] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testProductQuantityInCart passed
+[INFO] - [01-07-2026 20:05:36] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:05:36] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:05:43] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddProductFromDetailsPage started
+[INFO] - [01-07-2026 20:05:51] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testAddProductFromDetailsPage passed
+[INFO] - [01-07-2026 20:05:52] [main] [com.automationexercises.drivers.GUIDriver] - Initializing GUIDriver with browser: Edge
+[INFO] - [01-07-2026 20:05:52] [main] [com.automationexercises.drivers.GUIDriver] - Starting driver for browser: EDGE
+[INFO] - [01-07-2026 20:05:54] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testScrollUpAndScrollDown started
+[INFO] - [01-07-2026 20:06:02] [main] [com.automationexercises.listeners.TestNGListeners] - Test Case testScrollUpAndScrollDown passed
+[INFO] - [01-07-2026 20:06:08] [main] [com.automationexercises.FileUtils] - Target File Path: "C:\Users\laptop home\AutomationExercise\test-output\reports\index.html", file was renamed to "AllureReport_2026-07-01_08-06-08.html".
+[INFO] - [01-07-2026 20:06:08] [main] [com.automationexercises.listeners.TestNGListeners] - Test Execution Finished
